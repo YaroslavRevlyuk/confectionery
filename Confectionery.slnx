@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Confectionery.Api/Confectionery.Api.csproj" />
+    <Project Path="src/Confectionery.Domain/Confectionery.Domain.csproj" />
+    <Project Path="src/Confectionery.Infrastructure/Confectionery.Infrastructure.csproj" />
+    <Project Path="src/Confectionery.Wpf/Confectionery.Wpf.csproj" />
+  </Folder>
+</Solution>
